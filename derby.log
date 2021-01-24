@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Sat Jan 30 14:44:12 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0177-5389-70aa-00000053d770 
+on database directory memory:/Users/patrickkooijman/Projects/JavaDesignPatterns/codejava/webdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@e58029b6 
+Loaded from file:/Users/patrickkooijman/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=14.0.2+12
+java.fullversion=14.0.2+12
+JRE 14 Mac OS X amd64-64-Bit Compressed References 20200715_143 (JIT enabled, AOT enabled)
+OpenJ9   - 34cf4c075
+OMR      - 113e54219
+JCL      - 1d231bd6a2 based on jdk-14.0.2+12
+user.dir=/Users/patrickkooijman/Projects/JavaDesignPatterns
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
